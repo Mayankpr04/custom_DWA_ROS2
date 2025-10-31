@@ -39,7 +39,13 @@ source install/setup.bash
 ros2 launch custom_dwa_planner dwa_planner.launch.py
 ```
 First, the Gazebo world will spawn with the TurtleBot3. Wait for a few seconds, and an RViz window will appear.
-You should be able to see something like this: 
 
+ ## Visualization
+ You should be able to see something like this:
+ <img width="1231" height="862" alt="Screenshot from 2025-10-31 14-42-17" src="https://github.com/user-attachments/assets/f492d9a3-dafa-485d-bb4f-528a1924f4dc" />
+<img width="521" height="424" alt="Screenshot from 2025-10-31 14-41-53" src="https://github.com/user-attachments/assets/1097f46a-714f-4937-a81a-9796635d8817" />
+
+
+[Screencast from 10-31-2025 02:39:55 PM.webm](https://github.com/user-attachments/assets/b6a5f5bf-055b-4289-b467-9dd715260c16)
 
 
