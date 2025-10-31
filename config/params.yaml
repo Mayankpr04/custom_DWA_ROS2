@@ -1,0 +1,14 @@
+dwa_planner_node:
+  ros__parameters:
+    max_vel: 0.16
+    min_vel: 0.04 #0.04
+    max_yawrate: 2.84
+    max_accel: 0.15 
+    max_dyawrate: 2.0
+    vel_res: 0.02
+    yawrate_res: 0.1 #0.1
+    dt: 0.2
+    predict_time: 3.4 #3.0 #3.6
+    heading_cost_gain: 1.1 #1.0 #1.5 
+    speed_cost_gain: 0.1 #0.1
+    obstacle_cost_gain: 1.0 #1.0
