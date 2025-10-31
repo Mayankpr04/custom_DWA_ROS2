@@ -42,11 +42,10 @@ First, the Gazebo world will spawn with the TurtleBot3. Wait for a few seconds, 
 
  ## Visualization
  You should be able to see something like this:
-https://github.com/user-attachments/assets/f7e58a53-4108-4db3-94d4-defe87a0ef2a
+![Demo - Made with Clipchamp](https://github.com/user-attachments/assets/9f8d724b-a6d0-43b0-bb02-e9535c0f7d55)
 <img width="521" height="424" alt="Screenshot from 2025-10-31 14-42-17" src="https://github.com/user-attachments/assets/f492d9a3-dafa-485d-bb4f-528a1924f4dc" />
 <img width="521" height="424" alt="Screenshot from 2025-10-31 14-41-53" src="https://github.com/user-attachments/assets/1097f46a-714f-4937-a81a-9796635d8817" />
 
 
-[Screencast from 10-31-2025 02:39:55 PM.webm](https://github.com/user-attachments/assets/b6a5f5bf-055b-4289-b467-9dd715260c16)
 
 
