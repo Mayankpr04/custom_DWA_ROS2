@@ -51,6 +51,11 @@ First, the Gazebo world will spawn with the TurtleBot3. Wait for a few seconds, 
 The RViz window shows the path taken, where the goal point is, along with the laser scan for visual information. Please note that while the above run works as shown,
 sometimes the path taken is eccentric at the beginning, I am unsure of why that happens, but it does navigate to the goal point
 
+## Terminal Window
+The logging should show information about v (velocity), omega, score (determines which path) and the distance to goal. For example: 
+<img width="773" height="173" alt="Screenshot from 2025-10-31 15-05-53" src="https://github.com/user-attachments/assets/95070ffe-acd8-4a01-bb9f-69d9927e34b2" />
+
+
 
 
 
