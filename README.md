@@ -32,8 +32,10 @@ colcon build
 After you build, do not forget to source. A good practice is to run ``` source install/setup.bash ``` everytime you enter the directory.
 
 ## Step 4: Launch / run
-In the same terminal, after sourcing, run this command
+After you build, run the following to launch the DWA planner
 ```
+cd ~/dwa_ws
+source install/setup.bash
 ros2 launch custom_dwa_planner dwa_planner.launch.py
 ```
 First, the Gazebo world will spawn with the TurtleBot3. Wait for a few seconds, and an RViz window will appear.
